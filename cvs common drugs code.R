@@ -1,4 +1,4 @@
-# Input my csv file
+# Input my csv file between the quotes
 my_data <- read.csv("")
 
 # remove an unnecessary column from my data (column 1)
