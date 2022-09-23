@@ -1,4 +1,8 @@
-To Do
+# CVS.CVS Parser
+## Purpose
+An exercise in using R to process csv spreedsheet data, using data educational material from CVS Pharmacy. Because this spreedsheet is likely under copyright, I will not be posting it here.
+
+###To Do
 
 I. The - er - Plan...
 
