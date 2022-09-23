@@ -7,7 +7,7 @@ df <- subset(my_data, select = -1)
 # sort the data by the generic name (alphabetical)
 df <- df[order(df$GENERIC),]
 
-# remove redundant listings (mostly applies to albudfuterols)
+# remove redundant listings (mostly applies to albuterols)
 udf <- unique(df)
 
 # re-numerate rows
