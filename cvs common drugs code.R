@@ -1,5 +1,5 @@
 # Input my csv file
-my_data <- read.csv("/home/putinisapussy/Documents/DRUG NAMES-CORRECTED.csv")
+my_data <- read.csv("")
 
 # remove an unnecessary column from my data (column 1)
 df <- subset(my_data, select = -1)
